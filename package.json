@@ -1,0 +1,9 @@
+{
+  "name": "cherry-pit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cherry Pit Packet 04 static visual prototype.",
+  "main": "src/main.js",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^39.8.10" }
+}
